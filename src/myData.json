@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Car",
+    "image": "https://i.pinimg.com/474x/d2/46/c3/d246c3e705e22fe9c19867219182e4ac.jpg",
+    "description": "Some post",
+    "author": "Me",
+    "rating": 12434
+  },
+  {
+    "id": 2,
+    "title": "House",
+    "image": "https://i.pinimg.com/474x/59/e9/96/59e9962a1890317fa0a78b13365424b1.jpg",
+    "description": "Some post",
+    "author": "Me",
+    "rating": 234354
+  },
+  {
+    "id": 3,
+    "title": "Anime",
+    "image": "https://i.pinimg.com/474x/89/17/52/891752f61481c046937208daae5249f3.jpg",
+    "description": "Some post",
+    "author": "Me",
+    "rating": 7894
+  },
+  {
+    "id": 4,
+    "title": "Post1",
+    "image": "https://i.pinimg.com/474x/cb/6e/f4/cb6ef4c5d5222ebfa49964f3324b163d.jpg",
+    "description": "Some post",
+    "author": "Me",
+    "rating": 903
+  },
+  {
+    "id": 5,
+    "title": "Car",
+    "image": "https://i.pinimg.com/474x/83/6b/a0/836ba003f619e3428cdacc170d86a7a3.jpg",
+    "description": "Some post",
+    "author": "Me",
+    "rating": 12
+  }
+]

@@ -1,0 +1,19 @@
+.search_bar form{
+    position: relative;
+    display: inline-flex;
+}
+
+#search_input input{
+    border-radius: 30px;
+    width: 600px;
+    height: 50px;
+    background-color: #EEEEEE;
+}
+
+.mb-3 img{
+    position: absolute;
+    top: 9px;
+    right: 10px;
+    width: 35px;
+    height: 35px;
+}

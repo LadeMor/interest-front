@@ -1,0 +1,38 @@
+.image_block{
+    margin-bottom: 20px;
+}
+
+.info_block{
+    border: 1px solid black;
+    width: 300px;
+}
+
+.card-text button{
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+    padding: 1px;
+    color: black;
+    background-color: white;
+}
+
+.button_plus{
+    border-color: #1fded4;
+}
+
+.button_plus:hover {
+    background-color: #1fded4;
+    border-color: #1fded4;
+    color: white;
+}
+
+.button_minus{
+    border-color: #dd2be3;
+}
+
+.button_minus:hover {
+    background-color: #dd2be3;
+    border-color: #dd2be3;
+    color: white;
+}
+

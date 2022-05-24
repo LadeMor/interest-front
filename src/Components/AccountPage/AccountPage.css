@@ -1,0 +1,19 @@
+.user_info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.user_icon{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.followers_info{
+    margin-top: 20px;
+    display: inline-flex;
+}
+
+.followers_info div{
+    margin: 10px;
+}
